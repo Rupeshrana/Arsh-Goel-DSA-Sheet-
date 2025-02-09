@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
