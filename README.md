@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -75,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
