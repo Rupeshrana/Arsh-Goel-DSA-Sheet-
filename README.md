@@ -83,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
