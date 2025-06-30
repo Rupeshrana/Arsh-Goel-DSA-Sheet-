@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0319-bulb-switcher) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
