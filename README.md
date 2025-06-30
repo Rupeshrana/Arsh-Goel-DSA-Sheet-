@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3227-find-missing-and-repeated-values) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0319-bulb-switcher) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2649-count-total-number-of-colored-cells) |
