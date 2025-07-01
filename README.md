@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
