@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
