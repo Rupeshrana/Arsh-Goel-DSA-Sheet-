@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1944-truncate-sentence](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1944-truncate-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0125-valid-palindrome) |
+| [1944-truncate-sentence](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1944-truncate-sentence) |
 ## String Matching
 |  |
 | ------- |
