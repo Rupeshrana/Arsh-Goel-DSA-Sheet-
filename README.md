@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0125-valid-palindrome) |
 | [1944-truncate-sentence](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1944-truncate-sentence) |
 | [3617-find-the-original-typed-string-i](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3618-find-the-original-typed-string-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0319-bulb-switcher) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
