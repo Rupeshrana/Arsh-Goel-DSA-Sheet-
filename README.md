@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3618-find-the-original-typed-string-ii) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0040-combination-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
