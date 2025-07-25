@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3227-find-missing-and-repeated-values) |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
