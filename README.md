@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1036-rotting-oranges](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1036-rotting-oranges) |
 | [1944-truncate-sentence](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1944-truncate-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/2551-apply-operations-to-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1036-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
