@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Rupeshrana/Arsh-Goel-DSA-Sheet-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
